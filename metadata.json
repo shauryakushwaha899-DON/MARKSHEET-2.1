@@ -1,0 +1,5 @@
+{
+  "name": "School Marksheet System",
+  "description": "Offline-capable school marksheet management system with dashboard, configuration, and PDF generation.",
+  "requestFramePermissions": []
+}
